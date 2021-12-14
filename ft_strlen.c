@@ -14,7 +14,7 @@
 
 size_t	ft_strlen(const char *str)
 {
-	unsigned char	i;
+	size_t	i;
 	char			*ptr;
 
 	i = 0;
